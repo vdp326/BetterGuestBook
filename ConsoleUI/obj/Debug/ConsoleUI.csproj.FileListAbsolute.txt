@@ -1,0 +1,10 @@
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 4\Sample Projects\BetterGuessBook\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 4\Sample Projects\BetterGuessBook\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 4\Sample Projects\BetterGuessBook\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 4\Sample Projects\BetterGuessBook\ConsoleUI\bin\Debug\GuestBookLibrary.dll
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 4\Sample Projects\BetterGuessBook\ConsoleUI\bin\Debug\GuestBookLibrary.pdb
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 4\Sample Projects\BetterGuessBook\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 4\Sample Projects\BetterGuessBook\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 4\Sample Projects\BetterGuessBook\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 4\Sample Projects\BetterGuessBook\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 4\Sample Projects\BetterGuessBook\ConsoleUI\obj\Debug\ConsoleUI.pdb
